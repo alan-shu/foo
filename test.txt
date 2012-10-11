@@ -1,1 +1,1 @@
-branch=mybranch
+branch=master
